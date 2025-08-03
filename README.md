@@ -16,11 +16,6 @@ This Android application displays a new motivational quote each time the user cl
 - ConstraintLayout
 - Git & GitHub
 
-## 📽 Demo
-*Demo video coming soon...*
-
----
-
 👩‍💻 Developed by **Keerthika P**  
 📅 August 2025  
 🎓 CodSoft Internship – Task 2
