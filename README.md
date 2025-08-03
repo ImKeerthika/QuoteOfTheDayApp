@@ -1,6 +1,6 @@
 # Quote of the Day App 📜
 
-✅ **Task 2 – Android App Development Internship @ CodSoft**
+✅ **Task 2 – Android App Development Internship in CodSoft**
 
 This Android application displays a new motivational quote each time the user clicks a button.
 
